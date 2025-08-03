@@ -9,7 +9,7 @@ symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 # Printing a welcome message when user runs program.
 print("Welcome to the Random Password Generator!")
 
-# Using the input function to prompt user to enter the desired amount of letters, numbers and symbols for password.
+# Using the input function to prompt user to enter the desired amount of letters, numbers and symbols for generated password.
 nr_letters = int(input("How many letters would you like in your password?\n"))
 nr_symbols = int(input(f"How many symbols would you like?\n"))
 nr_numbers = int(input(f"How many numbers would you like?\n"))
