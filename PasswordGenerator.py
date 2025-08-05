@@ -6,7 +6,7 @@ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n',
 numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 
-# Printing a welcome message when user runs program.
+# Printing a welcome message when user initially runs program.
 print("Welcome to the Random Password Generator!")
 
 # Using the input function to prompt user to enter the desired amount of letters, numbers and symbols for generated password.
